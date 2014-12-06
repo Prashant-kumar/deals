@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Deals",
+  "description": "Get the best deals from flipkart.com every day.",
+  "version": "1.0",
+
+  "permissions": [
+    "http://www.flipkart.com/",
+    "https://maxcdn.bootstrapcdn.com/"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "main.html"
+  }
+}
