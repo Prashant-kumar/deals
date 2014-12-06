@@ -1,4 +1,4 @@
-deals
+Deals
 =====
 
 Installation for development

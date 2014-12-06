@@ -6,8 +6,7 @@
   "version": "1.0",
 
   "permissions": [
-    "http://www.flipkart.com/",
-    "https://maxcdn.bootstrapcdn.com/"
+    "http://www.flipkart.com/"
   ],
   "browser_action": {
     "default_icon": "icon.png",
